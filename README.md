@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/8c1550a2-204f-4cd2-bbf4-52310ee22872)<h1 align="center">Hi 👋, I'm Arnav Pandey</h1>
+<img src = "https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h1 align="center">Hi 👋, I'm Arnav Pandey</h1>
 <h3 align="center">A passionate Full Stack Developer and Coder.</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "![image](https://github.com/user-attachments/assets/39ba98ca-f844-4ff7-8ca9-1b4017440687)
-" >
+<img align = "right" alt = "coding" width = "400" src = "" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavpandey01&label=Profile%20views&color=0e75b6&style=flat" alt="arnavpandey01" /> </p>
 
