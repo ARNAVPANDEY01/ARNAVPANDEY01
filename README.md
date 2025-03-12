@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnav Pandey</h1>
 <h3 align="center">A passionate Full Stack Developer and Coder.</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://github.com/rudrabarad/Gifs" >
+<img align = "right" alt = "coding" width = "400" src = "![Uploading image.png…]()
+" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavpandey01&label=Profile%20views&color=0e75b6&style=flat" alt="arnavpandey01" /> </p>
 
